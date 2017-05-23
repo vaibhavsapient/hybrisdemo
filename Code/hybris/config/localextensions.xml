@@ -7,8 +7,7 @@
 		-->
 				
 		<path dir="${HYBRIS_BIN_DIR}" />		
-		<path dir="${HYBRIS_BIN_DIR}/ext-platform-optional" />
-		<path dir="${HYBRIS_BIN_DIR}/ext-accelerator" />
+
 
 		
 		<!-- *************************************************** -->
