@@ -21,25 +21,7 @@
 		<!-- *** hybris Multichannel Suite                   *** -->
 		<!-- *************************************************** -->
 
-		<extension dir="${HYBRIS_BIN_DIR}/ext-channel/cscockpit" />
-        <extension dir="${HYBRIS_BIN_DIR}/ext-channel/mobileservices" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-cockpit/admincockpit" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-content/classificationsystems" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-content/cms2" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-content/cms2lib" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-content/cmscockpit" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-content/productcockpit" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-commerce/basecommerce" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-commerce/commerceservices" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-commerce/customerreview" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-commerce/payment" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-commerce/promotions" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-commerce/voucher" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-commerce/wishlist" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-commerce/solrfacetsearch" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-commerce/ticketsystem" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-commerce/hyend2" />
-		<extension dir="${HYBRIS_BIN_DIR}/ext-template/yacceleratorfulfilmentprocess" />
+
 		
 		
 		<!-- *************************************************** -->
