@@ -12,7 +12,6 @@
 										
 		<!-- ext-platform -->
 		<extension name="admincockpit" />
-		<extension name="backoffice" />
 		<extension name="cockpit" />
 		<extension name="hmc" />
 		<extension name="mcc" />
